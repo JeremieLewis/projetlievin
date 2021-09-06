@@ -1,1 +1,5 @@
-# projetlievin
+# - Jérémie
+# - Alison
+# - Thibaut
+# - Matthias
+# - Mohamed
